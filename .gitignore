@@ -1,0 +1,42 @@
+# ------------------------
+# Python cache and compiled files
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------------
+# Virtual environments
+# ------------------------
+env/
+venv/
+.env
+
+# ------------------------
+# IDE / Editor files
+# ------------------------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# ------------------------
+# AWS credentials and config
+# ------------------------
+*.aws/credentials
+aws_credentials.json
+
+# ------------------------
+# Outputs from your scripts
+# ------------------------
+*.txt
+*_summary.txt
+screenshots/
+
+# ------------------------
+# Logs or temp files
+# ------------------------
+*.log
+*.tmp
